@@ -35,10 +35,10 @@ clarity, and learning rather than model complexity.
 
 ## Project Structure
 
-pytorch-iris-dataset
--a. iris_pytorch_colab.ipynb
--b. README.md
--c. iris.csv
+pytorch-iris-dataset:
+_a. iris_pytorch_colab.ipynb
+_b. README.md
+_c. iris.csv
 
 ---
 
