@@ -94,9 +94,7 @@ not for performance optimization or competition.
 
 ---
 
-## Author
-
-This project is created as part of a structured learning process
+This project is just created as part of a structured learning process
 to build strong foundations in PyTorch and in ANNs.
 
 
